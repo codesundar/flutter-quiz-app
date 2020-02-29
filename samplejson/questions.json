@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "How many days in a leap year?",
+            "options": [
+                "365",
+                "366",
+                "360",
+                "369"
+            ],
+            "answerIndex": 1
+        },
+        {
+            "question": "How many colors Google logo?",
+            "options": [
+                "5",
+                "6",
+                "4",
+                "7"
+            ],
+            "answerIndex": 2
+        },
+        {
+            "question": "Which the current version of flutter SDK?",
+            "options": [
+                "1.12.13",
+                "2.1.1",
+                "1.1.0",
+                "1.4.1"
+            ],
+            "answerIndex": 0
+        },
+        {
+            "question": "Which is not related to google product?",
+            "options": [
+                "Google Pay",
+                "Flutter",
+                "React Native",
+                "Angular"
+            ],
+            "answerIndex": 2
+        },
+        {
+            "question": "What is widget in flutter?",
+            "options": [
+                "Screen",
+                "Framework",
+                "HTTP services",
+                "UI component"
+            ],
+            "answerIndex": 3
+        }
+    ]
+}
